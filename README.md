@@ -100,3 +100,5 @@ to discuss what you would like to change.
 ## 📄 License
 
 [MIT](./LICENSE)
+
+<!-- maintenance -->
