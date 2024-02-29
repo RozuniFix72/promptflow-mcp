@@ -1,0 +1,27 @@
+{
+  "name": "promptflow-mcp",
+  "version": "0.2.1",
+  "description": "MCP server for prompt template management",
+  "type": "module",
+  "main": "dist/index.js",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "node --test tests/",
+    "lint": "eslint src tests"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/node": "^20.0.0",
+    "eslint": "^9.0.0"
+  },
+  "keywords": ["mcp", "prompts", "templates", "llm"],
+  "license": "MIT"
+}
