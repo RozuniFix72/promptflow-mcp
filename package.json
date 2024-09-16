@@ -26,4 +26,6 @@
   "license": "MIT"
 }
 
-<!-- maintenance -->
+## Notes
+
+- Local-first; no network needed.
