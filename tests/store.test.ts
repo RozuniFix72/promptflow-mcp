@@ -42,4 +42,4 @@ test("search matches tags and body", () => {
   rmSync(dir, { recursive: true, force: true });
 });
 
-<!-- maintenance -->
+// TODO: revisit this section
