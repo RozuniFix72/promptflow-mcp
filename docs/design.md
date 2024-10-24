@@ -29,3 +29,5 @@ swap for an inverted index if the store grows.
 - Tag renaming
 - Import/export bundles
 - Sync via git remote
+
+- Updated example output.
