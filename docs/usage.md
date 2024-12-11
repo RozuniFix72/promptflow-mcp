@@ -42,3 +42,7 @@ prompt.versions id=...
 ```bash
 npm test
 ```
+
+## Notes
+
+- Local-first; no network needed.
