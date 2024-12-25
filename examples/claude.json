@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "promptflow": {
+      "command": "node",
+      "args": ["/path/to/promptflow-mcp/dist/index.js"]
+    }
+  }
+}
