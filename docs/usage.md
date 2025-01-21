@@ -43,6 +43,4 @@ prompt.versions id=...
 npm test
 ```
 
-## Notes
-
-- Local-first; no network needed.
+<!-- maintenance -->
