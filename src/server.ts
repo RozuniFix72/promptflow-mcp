@@ -12,3 +12,7 @@ export async function startServer() {
   await server.connect(transport);
   console.error("promptflow-mcp: connected");
 }
+
+## Notes
+
+- Local-first; no network needed.
