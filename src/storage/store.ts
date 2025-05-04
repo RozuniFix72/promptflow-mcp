@@ -92,3 +92,5 @@ export class TemplateRegistry {
     rmSync(this.path(id), { force: true });
   }
 }
+
+// TODO: revisit this section
