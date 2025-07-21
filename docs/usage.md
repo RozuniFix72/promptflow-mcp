@@ -43,4 +43,4 @@ prompt.versions id=...
 npm test
 ```
 
-<!-- maintenance -->
+- Updated example output.
