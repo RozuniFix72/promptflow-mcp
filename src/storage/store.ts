@@ -93,4 +93,4 @@ export class TemplateRegistry {
   }
 }
 
-// TODO: revisit this section
+- Updated example output.
