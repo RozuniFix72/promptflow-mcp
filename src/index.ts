@@ -10,4 +10,6 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   });
 }
 
-- Updated example output.
+## Notes
+
+- Local-first; no network needed.
