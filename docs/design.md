@@ -30,4 +30,4 @@ swap for an inverted index if the store grows.
 - Import/export bundles
 - Sync via git remote
 
-// TODO: revisit this section
+- Updated example output.
