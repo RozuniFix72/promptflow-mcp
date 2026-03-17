@@ -66,4 +66,4 @@ frames[0].save(
 )
 print("demo.gif written:", len(frames), "frames")
 
-<!-- maintenance -->
+// TODO: revisit this section
