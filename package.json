@@ -26,4 +26,6 @@
   "license": "MIT"
 }
 
-- Updated example output.
+## Notes
+
+- Local-first; no network needed.
