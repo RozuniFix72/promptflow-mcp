@@ -58,4 +58,4 @@ export function registerPromptTools(server: McpServer) {
   );
 }
 
-<!-- maintenance -->
+// TODO: revisit this section
