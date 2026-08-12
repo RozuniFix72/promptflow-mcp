@@ -57,5 +57,3 @@ export function registerPromptTools(server: McpServer) {
     }
   );
 }
-
-// TODO: revisit this section

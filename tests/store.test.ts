@@ -41,5 +41,3 @@ test("search matches tags and body", () => {
   assert.equal(reg.search("ci").length, 1);
   rmSync(dir, { recursive: true, force: true });
 });
-
-- Updated example output.

@@ -25,7 +25,3 @@
   "keywords": ["mcp", "prompts", "templates", "llm"],
   "license": "MIT"
 }
-
-## Notes
-
-- Local-first; no network needed.
